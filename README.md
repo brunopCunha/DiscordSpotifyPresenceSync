@@ -19,7 +19,7 @@ This Python project allows you to **sync your Spotify activity to your Discord R
 - A `.env` file with:
   ```env
   TOKEN=your_discord_bot_token
-  DISCORD_TOKEN=your_discord_user_token
+  SPOTIFY_TOKEN=your_spotify_token
   ```
 - Install dependencies:
   ```bash
@@ -58,7 +58,7 @@ This Python project allows you to **sync your Spotify activity to your Discord R
 2. Create a `.env` file:
    ```env
    TOKEN=your_discord_bot_token
-   DISCORD_TOKEN=your_discord_user_token
+   SPOTIFY_TOKEN=your_spotify_token
    ```
 
 3. Install dependencies:
